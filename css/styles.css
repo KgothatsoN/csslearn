@@ -11,7 +11,14 @@ body    {
 .logo   {
     font-size: 1.5em;
     margin: .5rem;
+    
 }
+
+.logo a {
+    text-decoration: none;
+    color: white;
+}
+
 
 /* Navigationbar Styling */
 .navbar    {
